@@ -1,4 +1,14 @@
-### Hi there 👋
+# - 👋 Hi, I’m Ahmed Khaled 
+
+## 🔭 I have Bachelor’s Degree in Software Engineering Faculty of engineering 
+## ✨ (Computers & Systems) Department
+
+### - 👀 I’m interested in Software Testing ( Test Automation )
+### - 🌱 I’m looking forward to be one of the best Software Engineers 
+
+## - 📫 How to reach me: 
+### ahmedkhaled5821@gmail.com
+
 
 <!--
 **ahmedkhaled14/ahmedkhaled14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
