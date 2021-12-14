@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center"> ✨ A passionate Software Test Engineer From Egypt ✨</h3>
+<div align="Left">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkhaled14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhaled14" /> </p>
 
@@ -9,9 +12,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+
 - 💬 Ask me about 👀 **Test Automation**
   
-- 📫 How to reach me, [Gmail](mailto:ahmedkhaled5821@gmail.com) 
+- 📫 How to reach me, Gmail: ahmedkhaled5821@gmail.com
 
 <h3 align="left"> * Connect with me:</h3>
 <p align="left">
