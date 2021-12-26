@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center"> ✨ A passionate Software Test Engineer From Egypt ✨</h3>
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/68038931/145912698-36b8257c-6b6b-42ae-aa03-53fe92e41150.gif" width="1000" height="250" />
+  <img src= "https://user-images.githubusercontent.com/68038931/147420045-83d4a31b-1bfb-4201-b52d-4112fabf14f9.png" width="1000" height="250"  />
 </div>
 
 
