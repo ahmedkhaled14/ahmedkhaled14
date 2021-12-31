@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/68038931/147786006-0319c172-f433-458f-bbe4-036e303dd6a6.gif"  alt="GitHub Logo" width="120" height="120" />
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedkhaled14&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkhaled14" />  </p>
 </div>
-<h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
 <h3 align="center"> ✨ A passionate Software Test Automation Engineer From Egypt ✨</h3>
 <div align="center">
   <img src= "https://user-images.githubusercontent.com/68038931/147420045-83d4a31b-1bfb-4201-b52d-4112fabf14f9.png" width="1000" height="250"  />
