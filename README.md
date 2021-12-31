@@ -23,7 +23,7 @@
 </p>
 <br />
 
-  <img align="right" alt="mr-Robot" src="https://user-images.githubusercontent.com/68038931/147786142-16d50ae4-eb74-41bd-aefa-6e12a5e161d5.gif" width="500" />
+  <img align="right" alt="mr-Robot" src="https://user-images.githubusercontent.com/68038931/147786142-16d50ae4-eb74-41bd-aefa-6e12a5e161d5.gif" width="500" width="500" />
 
 - <h3 align="left"> Connect with me:</h3>
 <p align="left">
