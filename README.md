@@ -7,7 +7,7 @@
   <img src= "https://user-images.githubusercontent.com/68038931/147420045-83d4a31b-1bfb-4201-b52d-4112fabf14f9.png" width="1000" height="250"  />
 </div>
 
-<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">💻 My favorite projects 💻</h2>
 <br />
 
 <p align="center">
