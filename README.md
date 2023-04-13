@@ -13,8 +13,8 @@
 <p align="center">
   <img width="380"  src="https://user-images.githubusercontent.com/68038931/147838946-616b4ed7-2e9c-4c03-8cdd-65b2b00b2d79.gif" alt="test-gif" />
   <img width="380"  src="https://user-images.githubusercontent.com/68038931/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif" alt="test-gif" />
- <a href="https://github.com/ahmedkhaled14/MyStore_TestAutomation">
-  <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=MyStore_TestAutomation&theme=gotham" />
+ <a href="https://github.com/ahmedkhaled14/AutomationExercise">
+  <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=AutomationExercise&theme=gotham" />
 </a>
   <a href="https://github.com/ahmedkhaled14/FakeRESTApiUsingSHAFTengine">
   <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=FakeRESTApiUsingSHAFTengine&theme=gotham" />
