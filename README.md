@@ -17,7 +17,7 @@
   <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=AutomationExercise&theme=gotham" />
 </a>
   <a href="https://github.com/ahmedkhaled14/AppiumPractice">
-  <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=AppiumPractice&theme=gotham" />
+  <img width="380" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedkhaled14&repo=AppiumPractices&theme=gotham" />
 </a>
 </p>
 <br />
