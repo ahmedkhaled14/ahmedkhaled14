@@ -23,6 +23,8 @@
 <br />
 
   <img align="right" alt="mr-Robot" src="https://user-images.githubusercontent.com/68038931/147786142-16d50ae4-eb74-41bd-aefa-6e12a5e161d5.gif" width="400" width="400" />
+  
+<div>
 
 - <h3 align="left"> Connect with me:</h3>
 <p align="left">
@@ -39,12 +41,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <br />
 
-<div align="center">
- <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="400"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham"  alt="ahmedkhaled14"  width="400" />
-   <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham"   alt="ahmedkhaled14"   width="400" />
-  </p>
-  
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled14" alt="ahmedkhaled14" /></a> </p> -->
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="400" height="400"  />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham"  alt="ahmedkhaled14"  width="400" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham"   alt="ahmedkhaled14"   width="376" />
+  
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled14" alt="ahmedkhaled14"  /></a> </p>
+
+</div>
