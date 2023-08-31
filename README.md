@@ -46,10 +46,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="300" height="300"  />
 </div>
 
-<p align="left" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham" align="" alt="ahmedkhaled14"  width="400" />
-   <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham" align=""  alt="ahmedkhaled14"   width="376" />
+<p align="center">
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham" alt="ahmedkhaled14" />
+  <img width="376"  src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham"    alt="ahmedkhaled14" />
 </p>
+<br />
+
+
 <div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkhaled14" alt="ahmedkhaled14"  /></a> </p>
 </div>
