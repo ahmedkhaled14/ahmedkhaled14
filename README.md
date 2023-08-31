@@ -22,7 +22,7 @@
 </p>
 <br />
 
-  <img align="right" alt="mr-Robot" src="https://user-images.githubusercontent.com/68038931/147786142-16d50ae4-eb74-41bd-aefa-6e12a5e161d5.gif" width="400" width="400" />
+  <img align="right" alt="mr-Robot" src="https://user-images.githubusercontent.com/68038931/147786142-16d50ae4-eb74-41bd-aefa-6e12a5e161d5.gif" width="300" width="300" />
   
 <div>
 
