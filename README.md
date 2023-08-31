@@ -48,7 +48,7 @@
 
 <p align="center">
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham" alt="ahmedkhaled14" />
-  <img width="376"  src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham"    alt="ahmedkhaled14" />
+  <img width="380"  src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham"    alt="ahmedkhaled14" />
 </p>
 <br />
 
