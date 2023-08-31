@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="300" height="300"  />
 </div>
 
-<div >
+<div align="left" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedkhaled14&show_icons=true&theme=gotham" align="" alt="ahmedkhaled14"  width="400" />
    <img src="https://github-readme-stats.vercel.app/api?username=ahmedkhaled14&show_icons=true&theme=gotham" align=""  alt="ahmedkhaled14"   width="376" />
 </div>
