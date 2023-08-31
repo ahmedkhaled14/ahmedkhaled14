@@ -43,7 +43,7 @@
 
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="300" height="300"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhaled14&layout=compact&theme=gotham" alt="ahmedkhaled14" width="270" height="270"  />
 </div>
 
 <p align="center">
