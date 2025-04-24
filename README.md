@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/68038931/147420045-83d4a31b-1bfb-4201-b52d-4112fabf14f9.png" width="1000" height="250" />
+  <img src="https://github.com/user-attachments/assets/b0994aa5-c454-4312-ba3b-497ff4696f6c" width="1000" height="250" />
 </div>
+
 
 ---
 
